@@ -1,0 +1,153 @@
+body {font-family:'Quicksand',sans-serif; width:960px; background-color:black;
+    color:white;
+    margin:0 auto;
+/*    text-align:center;*/
+}
+#headerimg {width:1040px;
+    margin:0 auto;
+    margin-top:4px; position:relative;
+}
+
+#headerphoto{width:1040px;
+    margin:0 auto; position:relative;}
+
+#headerText {font-family:'Monoton', sans-serif; position:absolute;
+    top:0px;  right:200px;
+    font-size:50px;
+    text-align:center;
+}
+
+
+#wrapper {width:1040px; background-color:#888;
+margin: 0 auto;
+   }
+
+.category {text-align:center;
+padding-top:24px;
+font-size:25px;
+font-weight:900;}
+
+.category:hover {color:darkturquoise;}
+
+.aboutbox {  height: 200px; width: 200px;
+display:inline-block;
+   margin:0 auto;
+vertical-align:text-top;
+    text-align:center;
+padding:0;}
+
+#iam {margin-left:90px;}
+#icreate {margin-left:90px;}
+#ienjoy {margin-left:90px;}
+#sectionabout {width:100%;height: 70px; background-color:#333; margin:0;
+   text-align:center; padding:0;}
+#hiim {text-align:center;font-family:'Homemade Apple', cursive; font-size:50px;}
+
+#picme {display:block; margin:0 auto;
+padding-bottom:30px;}
+
+#sectionedu {width:100%;height: 70px; background-color:#444; margin:0;
+    padding:0;}
+
+
+#sectionexp {width:100%;height: 70px; background-color:#555; margin:0;
+    padding:0;}
+
+#sectionskills {width:100%;height: 70px; background-color:#666; margin:0;
+ padding:0;}
+
+#sectioncont {width: 100%; height: 70px; background-color:#777;
+margin:0;
+padding:0;}
+
+
+.content {padding:30px;
+    
+}
+
+.content ul {display:inline-block;}
+
+#icons ul {margin: 0 auto; padding-left:370px;}
+
+#icons ul li {display:inline-block;
+padding:6px;}
+
+#footer {background-color:black; margin:0;
+padding:0;
+}
+
+#footer span {display: inline-block;}
+
+#cc {margin-left:10px; margin-right: 470px;
+text-align: left;}
+
+a {text-decoration:none;
+color:lightblue;}
+
+a:hover {color:darkturquoise;}
+
+ul {list-style-type: none;}
+
+.box ul li {margin-bottom: 30px;
+}
+
+
+.box { 
+    height: 1000px;
+    width: 160px; display:inline-block;
+    padding-left: 0px;
+    padding-right: 70px;
+   margin:0 auto;
+vertical-align:text-top;
+    text-align:center;
+}
+ 
+#technical {margin-left: 60px;
+}
+
+#tools {margin-left: 95px;}
+
+#languages {margin-left:95px;}
+
+progress[value] {
+  -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: none; /* for moz*/
+  width: 100px;
+  height: 8px;
+ 
+}
+
+progress[value]::-webkit-progress-bar{
+  background-color: RGBa(88, 89, 91, 1.0);
+  border-radius: 2px;
+  box-shadow: 0 2px 5px RGBa(0, 0, 0, 0.25) inset;
+}
+progress[value]::-moz-progress-bar{
+  background-color: darkturquoise;
+  border-radius: 2px;
+}
+
+progress[value]::-webkit-progress-value {
+  background-color: darkturquoise;
+  border-radius: 2px;
+}
+
+#technical ul h3 {padding-bottom:10px;font-size:24px;}
+#tools ul h3 {padding-bottom:10px;font-size:24px;}
+#languages ul h3 {padding-bottom:10px;font-size:24px;}
+
+.category a{text-decoration:none; color:white;}
+
+.category a:hover {color:darkturquoise;}
+
+.collegename, .companyname {font-size:22px; padding-bottom:8px;}
+
+#elonuni, #training, #tfa,  #unc{width:100%; border-bottom:1px dotted white;padding-bottom:20px;}
+
+#hendrixcol, #tfa, #unc, #isdsource {padding-top:22px;}
+
+h4 {font-size:20px;padding-top:0;padding-bottom:4px; margin:0;}
+h5 {padding: 0; margin: 0;font-size:18px;}
+
